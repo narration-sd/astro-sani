@@ -2,6 +2,8 @@
 
 This is a helper package for integrating [Sanity](https://www.sanity.io/) with [Astro](https://astro.build/). It is not officially from Sanity but it is architected in the same way their official packages for frameworks like NextJS are.
 
+This version has been updated for Sanity 3.
+
 ## Installation
 
 ```bash
